@@ -132,7 +132,7 @@ Publish the URL.
 ```
 
 ## OUTPUT:
-![output](./backcover.jpg)
+![output](./bookcover.jpg)
 
 ## HTML VALIDATOR:
 ![HT](./valid.jpg)
